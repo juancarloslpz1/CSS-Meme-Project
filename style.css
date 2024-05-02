@@ -4,8 +4,9 @@ body {
 
 img {
     border: 5px solid white;
-    margin-left: 500px ;
-    border-image-width: 100%;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 125px;
 }
 
 h1 {
@@ -17,11 +18,11 @@ h1 {
 
 p {
     color: whitesmoke;
-    margin-left: 475px;
+    margin-left: 515px;
     font-family: "Libre Baskerville", serif;
-    text-transform: uppercase;
 }
 
 div {
     margin-top: 150px;
 }
+
